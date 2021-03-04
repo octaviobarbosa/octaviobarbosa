@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou apaixonado por tecnologia e games, trabalho como desenvolvedor desktop desde 2016, estou me aperfeiçoando no desenvolvimento web desde 2020.
+Sou apaixonado por tecnologia e games, trabalho como desenvolvedor desktop desde 2016 e estou me aperfeiçoando no desenvolvimento web desde 2020.
 
 - 🔭 I’m currently working on Data C Sistemas
 - 🌱 I’m currently learning HTML, CSS, Javascript, NodeJS e React

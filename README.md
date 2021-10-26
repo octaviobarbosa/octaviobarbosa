@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-Sou apaixonado por tecnologia e games, trabalhei como desenvolvedor desktop por 5 anos e desde 2021 venho atuando como desenvolvedor back-end.
+I love technology, music and games, I worked as a desktop developer for 5 years and since 2021 I work as a back-end developer.
 
 - 🔭 I’m currently working as Software Developer at TecnoSpeed TI
 - 🌱 I’m currently learning and improving Javascript, NodeJS, NestJS and Prisma ORM
 - 🎓 Graduated in Information Systems
 - 👨🏻‍🎓 Studying Specialization in Web and Mobile Development at IFSudesteMG ( 2021-2022 )
+- 😄 Pronouns: Him/His
 
 ![Octavio's github stats](https://github-readme-stats.vercel.app/api?username=octaviobarbosa&show_icons=true&theme=dracula)
 

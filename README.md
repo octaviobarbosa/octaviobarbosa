@@ -5,7 +5,7 @@ I love technology, music and games, I worked as a desktop developer for 5 years 
 - 🔭 I’m currently working as Software Developer Expecuialist at PX Center
 - 🌱 I’m currently learning and improving Javascript, NodeJS, NestJS and Prisma ORM
 - 🎓 Graduated in Information Systems
-- 👨🏻‍🎓 Pos-graduated Specialization in Web and Mobile Development at IFSudesteMG ( 2021-2022 )
+- 🎓 Pos-graduated Specialization in Web and Mobile Development at IFSudesteMG ( 2021-2022 )
 - 👨🏻‍🎓 Studying Pos-graduation in Liderança Técnica at Full Cycle ( 2024-2025 )
 - 😄 Pronouns: Him/His
 

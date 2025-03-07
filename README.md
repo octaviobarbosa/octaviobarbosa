@@ -3,10 +3,11 @@
 I love technology, music and games, I worked as a desktop developer for 5 years and since 2021 I work as a back-end developer.
 
 - 🔭 I’m currently working as Software Developer Specialist at PX Center
-- 🌱 I’m currently learning and improving Javascript, NodeJS, NestJS and Prisma ORM
+- 🌱 Expertise Javascript, NodeJS, NestJS, Typescript, PostgreSQL, Microservices and more
+- 🌱 I’m currently learning GoLang
 - 🎓 Graduated in Information Systems
 - 🎓 Pos-graduated Specialization in Web and Mobile Development at IFSudesteMG ( 2021-2022 )
-- 👨🏻‍🎓 Studying Pos-graduation in Liderança Técnica at Full Cycle ( 2024-2025 )
+- 👨🏻‍🎓 Studying Pos-graduation in Technical Leadership at Full Cycle ( 2024-2025 )
 - 😄 Pronouns: Him/His
 
 ![Octavio's github stats](https://github-readme-stats.vercel.app/api?username=octaviobarbosa&show_icons=true&theme=dracula)
